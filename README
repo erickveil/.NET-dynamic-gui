@@ -1,0 +1,9 @@
+The Dynamic GUI
+
+This is a demonstartion of a Windows .NET form that has GUI elements
+procedurally generated.
+
+Creating forms in this way requires an understanding of creating and
+setting the properties of form controlls without the use of the WYSIWYG
+editor in Windows, which is sometimes necessary for an application.
+
